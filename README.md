@@ -4,7 +4,7 @@ A simple utility written in go that leveraged DuckDuckGo APIs to retrieve links 
 
 **Usage**
 
-gosearch -keyword cricket -pages 5
+gosearch -keyword cricket -pages 3
 
 **Sample Output**
 
