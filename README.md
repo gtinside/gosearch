@@ -4,12 +4,14 @@ A simple utility written in go that leveraged DuckDuckGo APIs to retrieve links 
 
 **Usage**
 
-gosearch -keyword cricket -pages 5
+gosearch -keyword cricket -pages 3
 
 **Sample Output**
 
 1.https://duckduckgo.com/Cricket
+
 2.https://duckduckgo.com/Cricket_(insect)
+
 3.https://duckduckgo.com/Cricket_Wireless
 
 **Setup**
