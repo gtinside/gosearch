@@ -8,9 +8,9 @@ gosearch -keyword cricket -pages 5
 
 **Sample Output**
 
-1.https://duckduckgo.com/Cricket
-2.https://duckduckgo.com/Cricket_(insect)
-3.https://duckduckgo.com/Cricket_Wireless
+1. https://duckduckgo.com/Cricket
+2. https://duckduckgo.com/Cricket_(insect)
+3. https://duckduckgo.com/Cricket_Wireless
 
 **Setup**
 1. Clone the repository
